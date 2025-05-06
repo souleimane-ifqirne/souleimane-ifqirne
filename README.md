@@ -1,14 +1,14 @@
 <h1 align="center"> Hi 👋, I'm Souleimane</h1>
-<h3 align="center">A jovial web developer from France with a strong interest in frontend development.</h3>
+<h3 align="center">A jovial web developer from France with a strong interest in web development.</h3>
 
 ---
 ### 💫 About me:
 
 - 🔭I am currently seeking an apprenticeship in web development
   
-- 🌱I am currently mastering Next.js, Express.js, and more. I am focused on microservices and advanced front-end development. <br>Always seeking to embrace new challenges in tech.
+- 🌱I am currently mastering symfony, next.js, and more. I am focused on microservices and advanced backend development. <br>Always seeking to embrace new challenges in tech.
   
-- 🤝 I’m looking to collaborate on exciting  advanced frontend projects and microservices projects.
+- 🤝 I’m looking to collaborate on exciting  advanced web projects and microservices projects.
   
 - 📫Feel free to reach out at : ifqirne.souleimane@gmail.com or ‎‎[souleimane-ifqirne](https://linkedin.com/in/souleimane-ifqirne) 
   
