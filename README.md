@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Souleimane</h1>
-<h3 align="center">A jovial web developer from France with a strong interest in web development.</h3>
+<h3 align="center">A jovial web developer from France with a strong interest in software engineering.</h3>
 
 ---
 ### 💫 About me:
